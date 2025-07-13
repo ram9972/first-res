@@ -1,2 +1,5 @@
-printf("thanks for the enrolling the")
-printf("the code changes from the singapuru")
+public class FirstCode {
+    public static void main(String[] args) {
+        System.out.println("Hello from Java!");
+    }
+}
